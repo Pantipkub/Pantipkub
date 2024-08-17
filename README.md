@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piyapanchanok Meeboonsalang (Ming)
 ============================================================================================================================
-# - 👨‍💻 Computer Engineering student at Chulalongkorn University
-# - 📫 How to reach me: [ig: pepperminx_]
+- 👨‍💻 Computer Engineering student at Chulalongkorn University
+- 📫 How to reach me: [ig: pepperminx_]
 
 ### Currently learning
 <p align="left">
